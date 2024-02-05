@@ -1,6 +1,6 @@
 # flutterauth
 
-A new Flutter application.
+A new Flutter application.xxxxxxx
 
 ## Getting Started
 
